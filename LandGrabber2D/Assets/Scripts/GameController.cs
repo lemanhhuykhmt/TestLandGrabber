@@ -16,6 +16,10 @@ public class GameController : MonoBehaviour {
 	void Update () {
 		if(Input.GetMouseButtonDown(1))
         {
+            foreach(var castle in selected)
+            {
+                castle.GetComponent<CastleController>().setAnimSelected(false);
+            }
             selected.Clear();
         }
     }

@@ -23,23 +23,23 @@ public class CastleController : MonoBehaviour
             curHealth = value;
         }
     }
-    public float timer;
     public int level = 1;
     private int maxLevel = 5;
+    int clicked = 0;
+    float clickdelay = 0.3f;
     [Header("Unity Stuff")]
     public Image imgHealthCur;
     public Button btnUpgrade;
+    public Image imgSelected;
+    public Image imgMouseEnter;
 
 
-
-
-    int clicked = 0;
-    float clicktime = 0;
-    float clickdelay = 0.3f;
+    
     // Use this for initialization
     void Start()
     {
-        timer = Time.time;
+        setMouseEnter(false);
+        setAnimSelected(false);
         gameController = GameObject.FindGameObjectWithTag("GameController");
         imgHealthCur.fillAmount = curHealth / maxSoldier / 2;
         btnUpgrade.gameObject.SetActive(false);
@@ -60,12 +60,20 @@ public class CastleController : MonoBehaviour
             {
                 print("selected myteam");
                 gameController.GetComponent<GameController>().AddHouse(gameObject);
+                setAnimSelected(true);
             }
             else
             {
-                print("selected target");
-                gameController.GetComponent<GameController>().target = gameObject;
-                gameController.GetComponent<GameController>().Attack();
+                if (gameController.GetComponent<GameController>().selected.Count == 0)
+                {
+
+                }
+                else
+                {
+                    print("selected target");
+                    gameController.GetComponent<GameController>().target = gameObject;
+                    gameController.GetComponent<GameController>().Attack();
+                }
             }
         }
         else if (clicked > 1)
@@ -85,7 +93,14 @@ public class CastleController : MonoBehaviour
         }
         
     }
-
+    private void OnMouseEnter()
+    {
+        setMouseEnter(true);
+    }
+    private void OnMouseExit()
+    {
+        setMouseEnter(false);
+    }
     public bool HasConnect()
     {
         return true;
@@ -95,9 +110,8 @@ public class CastleController : MonoBehaviour
     {
         // lấy waypoint
         // tính lượng lính sinh
-       
-            StartCoroutine(spoil(target));
-        
+        setAnimSelected(false);
+        StartCoroutine(spoil(target));
     }
     IEnumerator spoil(GameObject target)
     {
@@ -173,4 +187,30 @@ public class CastleController : MonoBehaviour
         }
     }
 
+
+    public void setAnimSelected(bool active)
+    {
+        imgSelected.gameObject.SetActive(active); 
+        if(active)
+        {
+            imgSelected.GetComponent<Animator>().Play("animSelected");
+        }
+        else
+        {
+            imgSelected.GetComponent<Animator>().Play("animNonSelected");
+        }
+    }
+    private void setMouseEnter(bool isEnter)
+    {
+         
+         imgMouseEnter.gameObject.SetActive(isEnter);
+        if(Team == DEFINE.TEAM.MYTEAM)
+        {
+            imgMouseEnter.GetComponent<Image>().sprite = Resources.Load<Sprite>("selected/our_selector");
+        }
+        else
+        {
+            imgMouseEnter.GetComponent<Image>().sprite = Resources.Load<Sprite>("selected/enemy_selector");
+        }
+    }
 }

@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 9020f9d2b566a9547b077bb528ad2918
+timeCreated: 1540646011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magic_anim2_0
+    21300002: magic_anim2_1
+    21300004: magic_anim2_2
+    21300006: magic_anim2_3
+    21300008: magic_anim2_4
+    21300010: magic_anim2_5
+    21300012: magic_anim2_6
+    21300014: magic_anim2_7
+    21300016: magic_anim2_8
+    21300018: magic_anim2_9
+    21300020: magic_anim2_10
+    21300022: magic_anim2_11
+    21300024: magic_anim2_12
+    21300026: magic_anim2_13
+    21300028: magic_anim2_14
+    21300030: magic_anim2_15
+    21300032: magic_anim2_16
+    21300034: magic_anim2_17
+    21300036: magic_anim2_18
+    21300038: magic_anim2_19
+    21300040: magic_anim2_20
+    21300042: magic_anim2_21
+    21300044: magic_anim2_22
+    21300046: magic_anim2_23
+    21300048: magic_anim2_24
+    21300050: magic_anim2_25
+    21300052: magic_anim2_26
+    21300054: magic_anim2_27
+    21300056: magic_anim2_28
+    21300058: magic_anim2_29
+    21300060: magic_anim2_30
+    21300062: magic_anim2_31
+    21300064: magic_anim2_32
+    21300066: magic_anim2_33
+    21300068: magic_anim2_34
+    21300070: magic_anim2_35
+    21300072: magic_anim2_36
+    21300074: magic_anim2_37
+    21300076: magic_anim2_38
+    21300078: magic_anim2_39
+    21300080: magic_anim2_40
+    21300082: magic_anim2_41
+    21300084: magic_anim2_42
+    21300086: magic_anim2_43
+    21300088: magic_anim2_44
+    21300090: magic_anim2_45
+    21300092: magic_anim2_46
+    21300094: magic_anim2_47
+    21300096: magic_anim2_48
+    21300098: magic_anim2_49
+    21300100: magic_anim2_50
+    21300102: magic_anim2_51
+    21300104: magic_anim2_52
+    21300106: magic_anim2_53
+    21300108: magic_anim2_54
+    21300110: magic_anim2_55
+    21300112: magic_anim2_56
+    21300114: magic_anim2_57
+    21300116: magic_anim2_58
+    21300118: magic_anim2_59
+    21300120: magic_anim2_60
+    21300122: magic_anim2_61
+    21300124: magic_anim2_62
+    21300126: magic_anim2_63
+    21300128: magic_anim2_64
+    21300130: magic_anim2_65
+    21300132: magic_anim2_66
+    21300134: magic_anim2_67
+    21300136: magic_anim2_68
+    21300138: magic_anim2_69
+    21300140: magic_anim2_70
+    21300142: magic_anim2_71
+    21300144: magic_anim2_72
+    21300146: magic_anim2_73
+    21300148: magic_anim2_74
+    21300150: magic_anim2_75
+    21300152: magic_anim2_76
+    21300154: magic_anim2_77
+    21300156: magic_anim2_78
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_anim2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 1024
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_1
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 790
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 873
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 794
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 796
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 798
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 800
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 801
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 798
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 788
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_10
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 844
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 828
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 817
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 786
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_14
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 786
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 662
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_16
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 745
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 666
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 668
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 670
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 671
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 671
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 670
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 660
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_24
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 716
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_25
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 700
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_26
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 689
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 658
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_28
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 658
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 557
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 558
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 538
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 540
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 542
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_34
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 544
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 540
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_36
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 542
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 402
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 488
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 402
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 402
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_41
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 402
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 413
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 411
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 402
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_45
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 402
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 274
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 275
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 332
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 280
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_51
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 280
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_52
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 280
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 280
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 316
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 302
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 305
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 152
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 152
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 152
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 152
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_63
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_64
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 129
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_65
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 129
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_66
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 129
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_69
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_71
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_72
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_73
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 24
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_74
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_75
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 45
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_76
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_77
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magic_anim2_78
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

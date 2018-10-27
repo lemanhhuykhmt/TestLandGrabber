@@ -2,14 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DEFINE : MonoBehaviour {
+public class DEFINE {
     public enum TEAM:int
     {
         NEUTRAL,
         MYTEAM,
         BLUE,
         GREEN,
-        YELLOW  
+        YELLOW,
+        NONE
     }
     public enum DIRECTION
     {
@@ -72,13 +73,4 @@ public class DEFINE : MonoBehaviour {
         }
         return d;
     }
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
