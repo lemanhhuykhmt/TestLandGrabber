@@ -4,6 +4,21 @@ using UnityEngine;
 
 public class BigPoint : LittlePoint{
 
+    private DEFINE.TEAM team;
+
+    public DEFINE.TEAM Team
+    {
+        get
+        {
+            return team;
+        }
+
+        set
+        {
+            team = value;
+        }
+    }
+
     public bool Equals(BigPoint obj)
     {
         if(Position.x != obj.Position.x)
@@ -43,4 +58,5 @@ public class BigPoint : LittlePoint{
     {
         return base.GetHashCode();
     }
+
 }

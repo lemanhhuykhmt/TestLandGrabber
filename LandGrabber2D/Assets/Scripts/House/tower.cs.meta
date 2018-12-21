@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d851a0f8ec36c5d42bf9b388cb1b8692
+timeCreated: 1545383146
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soldier: {fileID: 1838602037269690, guid: 340b90db855eb3b45823d1d4a8ea8af8, type: 2}
+  - bigPoint: {instanceID: 0}
+  - imgHealthCur: {instanceID: 0}
+  - btnUpgrade: {instanceID: 0}
+  - imgSelected: {instanceID: 0}
+  - imgMouseEnter: {instanceID: 0}
+  - txtNumberSoldier: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - target: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -41,6 +41,11 @@ public class WayPoint {
         }
     }
 
+    public int GetLen()
+    {
+        return listPoints.Count;
+    }
+
     public WayPoint()
     {
         listPoints = new List<LittlePoint>();

@@ -6,22 +6,26 @@ public class SoldierController : MonoBehaviour {
     public float speedMove = 1f;
     public float damege = 1;
     public DEFINE.TEAM team;
-    public Transform endTarget;
+    public List<WayPoint> waysMove;
+    public Vector3 endTarget;
     private Transform curTarget;
     private int wayPointIndex = 0;
+    private List<Vector3> listPoints;
     private float bias = 0.1f;
     float b;
     private Vector3 lastPos;
     private Vector3 dir;
-
     private Animator animMove;
+    
     GameObject emptyGO;
     // Use this for initialization
     void Start () {
         lastPos = transform.position;
         animMove = GetComponent<Animator>();
         b = Random.Range(-bias, bias);
-        changeWayMove(WayPointController.wayPoints[wayPointIndex]);
+        getListPoint();
+        endTarget = waysMove[waysMove.Count - 1].End.Position;
+        changeWayMove(listPoints[0]);
     }
 	
 	// Update is called once per frame
@@ -30,37 +34,41 @@ public class SoldierController : MonoBehaviour {
         if(Vector3.Distance(transform.position, curTarget.position) <= 0.2f)
         {
             lastPos = curTarget.position;
-            getNextWayPoint();
+            getNextPoint();
         }
 	}
-    private void getNextWayPoint()
+    private void getNextPoint()
     {
-        if(wayPointIndex == WayPointController.wayPoints.Length - 1)
-        {
-            changeWayMove(endTarget);
-            return;
-        }
+        //if(wayPointIndex == WayPointController.wayPoints.Length - 1)
+        //{
+        //    changeWayMove(endTarget);
+        //    return;
+        //}
         wayPointIndex++;
-        changeWayMove(WayPointController.wayPoints[wayPointIndex]);
-
-        
+        changeWayMove(listPoints[wayPointIndex]);
     }
-
-    private void changeWayMove(Transform nextTrans)
+    private void getListPoint()
+    {
+        listPoints = new List<Vector3>();
+        foreach(var way in waysMove)
+        {
+            foreach(var point in way.ListPoints)
+            {
+                listPoints.Add(point.Position);
+            }
+            listPoints.Add(way.End.Position);
+        }
+    }
+    private void changeWayMove(Vector3 nextTrans)
     {
         Destroy(emptyGO);
         emptyGO = new GameObject();
         Transform nextPoint = emptyGO.transform;
         nextPoint.position = new Vector3(
-            nextTrans.position.x,
-            nextTrans.position.y,
-            nextTrans.position.z);
-        if(wayPointIndex == 0)
-        {
-            curTarget = nextPoint;
-            dir = curTarget.position - lastPos;
-            return;
-        }
+            nextTrans.x,
+            nextTrans.y,
+            nextTrans.z);
+
         dir = nextPoint.position - lastPos;
         float alpha = Vector2.Angle(new Vector2(1, 0), new Vector2(dir.x, dir.y));
         if(dir.y < 0)
@@ -119,44 +127,40 @@ public class SoldierController : MonoBehaviour {
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
         
-        if(collision.gameObject.tag.Equals("Castle"))
-        {
-            CastleController comCollision = collision.gameObject.GetComponent<CastleController>();
-            if (comCollision.Team == team)
-            {
-                if(endTarget.Equals(collision.gameObject.transform))// nếu chạm vào nhà mình là đích
-                {
-                    comCollision.AddSoidier();
-                    Destroy(gameObject);
-                }
-                else // nếu chạm vào nhà mình kp đích
-                {
-                    print("đi qua");
-                }
-            }
-            else// nếu chạm vào nhà địch
-            {
-                print("đánh");
-                if (comCollision.CurHealth <= 0)
-                {
-                    comCollision.Team = team;
-                    comCollision.CurHealth = 0f;
-                    comCollision.level = 1;
-                    comCollision.changeSkin();
-                }
-                else
-                {
-                    comCollision.ReceiveDamege(damege);
-                }
-                Destroy(gameObject);
-            }
+    //    if(collision.gameObject.tag.Equals("House"))
+    //    {
+    //        CastleController comCollision = collision.gameObject.GetComponent<CastleController>();
+    //        if (comCollision.Team == team)
+    //        {
+    //            if(endTarget.Equals(collision.gameObject.transform.position))// nếu chạm vào nhà mình là đích
+    //            {
+    //                comCollision.AddSoidier();
+    //                Destroy(gameObject);
+    //            }
+    //            else // nếu chạm vào nhà mình kp đích
+    //            {
+    //               // print("đi qua");
+    //            }
+    //        }
+    //        else// nếu chạm vào nhà địch
+    //        {
+    //            if (comCollision.CurHealth <= 0)
+    //            {
+    //                comCollision.ChangeTeam(team);
+    //            }
+    //            else
+    //            {
+    //                comCollision.ReceiveDamege(damege);
+    //            }
+    //            Destroy(gameObject);
+    //        }
             
-        }
+    //    }
         
 
         
-    }
+    //}
 }

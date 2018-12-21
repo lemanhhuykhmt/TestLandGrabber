@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Castle
   - Soldier
+  - House
+  - Castle
+  - Tower
   layers:
   - Default
   - TransparentFX
@@ -49,9 +51,9 @@ TagManager:
   - name: Soilder
     uniqueID: 2927306475
     locked: 0
-  - name: CastleUI
+  - name: HouseUI
     uniqueID: 4138344415
     locked: 0
-  - name: Castle
+  - name: House
     uniqueID: 3922711807
     locked: 0

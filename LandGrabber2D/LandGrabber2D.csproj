@@ -221,12 +221,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BigPoint.cs" />
-    <Compile Include="Assets\Scripts\CastleController.cs" />
+    <Compile Include="Assets\Scripts\BigPointController.cs" />
     <Compile Include="Assets\Scripts\DEFINE.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\GraphController.cs" />
     <Compile Include="Assets\Scripts\GraphPoint.cs" />
     <Compile Include="Assets\Scripts\House.cs" />
+    <Compile Include="Assets\Scripts\House\CastleController.cs" />
+    <Compile Include="Assets\Scripts\House\HouseController.cs" />
+    <Compile Include="Assets\Scripts\House\testController.cs" />
+    <Compile Include="Assets\Scripts\House\tower.cs" />
+    <Compile Include="Assets\Scripts\House\TowerController.cs" />
     <Compile Include="Assets\Scripts\HouseBase.cs" />
     <Compile Include="Assets\Scripts\LittlePoint.cs" />
     <Compile Include="Assets\Scripts\SoldierController.cs" />
