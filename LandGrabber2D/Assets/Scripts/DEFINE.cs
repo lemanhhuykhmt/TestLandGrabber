@@ -6,13 +6,13 @@ public class DEFINE {
     public enum TEAM:int
     {
         NEUTRAL,
-        MYTEAM,
+        RED,
         BLUE,
         GREEN,
         YELLOW,
         NONE
     }
-    public enum DIRECTION
+    public enum DIRECTION:int
     {
         None,
         East,
@@ -29,47 +29,42 @@ public class DEFINE {
     {
         dir.z = 1;
         DIRECTION d = DIRECTION.None;
-        float alpha = Vector3.Angle(new Vector3(1, 0, 1), dir);
-
-        float n = alpha / (Mathf.PI / 8);
-        if(n >= 15 || n <= 1)
+        float alpha = Vector2.Angle(new Vector2(1, 0), new Vector2(dir.x, dir.y));
+        if (dir.y < 0)
+        {
+            alpha = 360 - alpha;
+        }
+        if (alpha <= 22.5 || alpha >= 15 * 22.5)
         {
             d = DIRECTION.East;
         }
-        else if(n > 1 && n < 3)
+        else if (alpha < 3 * 22.5 && alpha > 1 * 22.5)
         {
             d = DIRECTION.EastNorth;
-
         }
-        else if (n >= 3 && n <= 5)
+        else if (alpha <= 5 * 22.5 && alpha >= 3 * 22.5)
         {
             d = DIRECTION.North;
-
         }
-        else if (n > 5 && n < 7)
+        else if (alpha < 7 * 22.5 && alpha > 5 * 22.5)
         {
             d = DIRECTION.WestNorth;
-            
         }
-        else if (n >= 7 && n <= 9)
+        else if (alpha <= 9 * 22.5 && alpha >= 7 * 22.5)
         {
             d = DIRECTION.West;
-
         }
-        else if (n > 9 && n < 11)
+        else if (alpha < 11 * 22.5 && alpha > 9 * 22.5)
         {
             d = DIRECTION.WestSouth;
-
         }
-        else if (n >= 11 && n <= 13)
+        else if (alpha <= 13 * 22.5 && alpha >= 11 * 22.5)
         {
             d = DIRECTION.South;
-
         }
-        else if (n > 13 && n < 15)
+        else if (alpha < 15 * 22.5 && alpha > 13 * 22.5)
         {
             d = DIRECTION.EastSouth;
-
         }
         return d;
     }

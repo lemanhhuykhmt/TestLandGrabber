@@ -226,17 +226,15 @@
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\GraphController.cs" />
     <Compile Include="Assets\Scripts\GraphPoint.cs" />
-    <Compile Include="Assets\Scripts\House.cs" />
     <Compile Include="Assets\Scripts\House\CastleController.cs" />
+    <Compile Include="Assets\Scripts\House\CityController.cs" />
+    <Compile Include="Assets\Scripts\House\ForgeController.cs" />
+    <Compile Include="Assets\Scripts\House\HorseController.cs" />
     <Compile Include="Assets\Scripts\House\HouseController.cs" />
-    <Compile Include="Assets\Scripts\House\testController.cs" />
-    <Compile Include="Assets\Scripts\House\tower.cs" />
     <Compile Include="Assets\Scripts\House\TowerController.cs" />
-    <Compile Include="Assets\Scripts\HouseBase.cs" />
     <Compile Include="Assets\Scripts\LittlePoint.cs" />
-    <Compile Include="Assets\Scripts\SoldierController.cs" />
+    <Compile Include="Assets\Scripts\Soldier\SoldierController.cs" />
     <Compile Include="Assets\Scripts\WayPoint.cs" />
-    <Compile Include="Assets\Scripts\WayPointController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

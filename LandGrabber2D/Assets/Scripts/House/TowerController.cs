@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -104,7 +103,7 @@ public class TowerController : HouseController
         string defaul = "s4";
         //print(name + "_" + team + "_" + defaul + "_" + lv);castle_p0_s4_l1
         Sprite sp = Resources.Load<Sprite>("House/" + name + "_" + team + "_" + defaul + "_" + lv);
-        GetComponent<SpriteRenderer>().sprite = sp;
+        imgSprite.GetComponent<Image>().sprite = sp;
     }
     void UpdateTarget()
     {

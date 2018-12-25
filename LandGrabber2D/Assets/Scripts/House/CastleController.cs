@@ -1,6 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CastleController : HouseController
 {
@@ -29,7 +29,7 @@ public class CastleController : HouseController
         string name = "castle";
         string defaul = "s4";
         Sprite sp = Resources.Load<Sprite>("House/" + name + "_" + team + "_" + defaul + "_" + lv);
-        GetComponent<SpriteRenderer>().sprite = sp;
+        imgSprite.GetComponent<Image>().sprite = sp;
 
     }
 }

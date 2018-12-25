@@ -33,6 +33,7 @@ public class GameController : MonoBehaviour {
             //kiểm tra tất cả các nhà có thể đến đích k
             foreach(var myHouse in selected)
             {
+                myHouse.GetComponent<HouseController>().setAnimSelected(false);
                 if(!myHouse.transform.position.Equals(target))
                 {
                     //myHouse.GetComponent<CastleController>().Attack(target);

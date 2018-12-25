@@ -15,6 +15,7 @@ public abstract class HouseController : MonoBehaviour {
     public int curSoldier = 30;
     public int maxSoldier = 40;
     public float curHealth = 60;
+    public float timerUpgrade = 1f;
     public float CurHealth
     {
         get
@@ -73,14 +74,16 @@ public abstract class HouseController : MonoBehaviour {
     private int maxLevel = 5;
     int clicked = 0;
     float clickdelay = 0.3f;
-
+    private float upgradeCount = 0f;
     [Header("Unity Stuff")]
+    public Image imgSprite;
     public Image imgHealthCur;
     public Button btnUpgrade;
     public Image imgSelected;
     public Image imgMouseEnter;
     public Text txtNumberSoldier;
-
+   
+    Image imgTimerUpgrade;
 
     // Use this for initialization
     protected virtual void Start()
@@ -99,6 +102,53 @@ public abstract class HouseController : MonoBehaviour {
     void Update()
     {
         UpdatePopulation();
+        //UpdateTimerUpgrade();
+    }
+    private void UpdateTimerUpgrade()
+    {
+        if(upgradeCount > 0)
+        {
+            upgradeCount += Time.deltaTime;
+            float n = (timerUpgrade / upgradeCount);
+            if(n > 0 && n <= 0.125f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_1");
+            }
+            else if (n > 0.125f && n <= 0.25f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_2");
+            }
+            else if (n > 0.25f && n <= 0.375f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_3");
+            }
+            else if (n > 0.375f && n <= 0.5f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_4");
+            }
+            else if (n > 0.5f && n <= 0.625f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_5");
+            }
+            else if (n > 0.625f && n <= 0.75f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_6");
+            }
+            else if (n > 0.75f && n <= 0.875f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_7");
+            }
+            else if (n > 0.875f && n <= 1f)
+            {
+                imgTimerUpgrade.GetComponent<Image>().sprite = Resources.Load<Sprite>("UI/upgrade_timer_8");
+            }
+            
+        }
+        else if(upgradeCount > timerUpgrade)
+        {
+            imgTimerUpgrade.gameObject.SetActive(false);
+            upgradeCount = 0f;
+        }
     }
     protected virtual void UpdatePopulation()
     {
@@ -124,7 +174,7 @@ public abstract class HouseController : MonoBehaviour {
         yield return new WaitForSeconds(clickdelay);
         if (clicked == 1)
         {
-            if (Team == DEFINE.TEAM.MYTEAM)
+            if (Team == DEFINE.TEAM.RED)
             {
                 gameController.GetComponent<GameController>().AddHouse(gameObject);
                 setAnimSelected(true);
@@ -165,10 +215,10 @@ public abstract class HouseController : MonoBehaviour {
         }
 
     }
-    private void OnMouseEnter()
-    {
-        setMouseEnter(true);
-    }
+        private void OnMouseEnter()
+        {
+            setMouseEnter(true);
+        }
     private void OnMouseExit()
     {
         setMouseEnter(false);
@@ -192,7 +242,7 @@ public abstract class HouseController : MonoBehaviour {
         for (int i = 0; i < solidierOut; ++i)
         {
             // spoi lính
-            yield return new WaitForSecondsRealtime(0.1f);
+            yield return new WaitForSecondsRealtime(0.15f);
             GameObject soil = Instantiate(soldier, transform.position, Quaternion.identity);
             soil.GetComponent<SoldierController>().endTarget = target;
             soil.GetComponent<SoldierController>().team = Team;
@@ -220,10 +270,13 @@ public abstract class HouseController : MonoBehaviour {
         {
             return;
         }
-        Level++;
-        CurSoldier = curSoldier / 2;
+
+        CurSoldier = CurSoldier - maxSoldier / 2;
         //updateHealth();
+        Level++;
+
         changeSkin();
+
     }
     public void ChangeTeam(DEFINE.TEAM team)
     {
@@ -254,14 +307,14 @@ public abstract class HouseController : MonoBehaviour {
         }
         else
         {
-            imgSelected.GetComponent<Animator>().Play("animNonSelected");
+            //imgSelected.GetComponent<Animator>().Play("animNonSelected");
         }
     }
     private void setMouseEnter(bool isEnter)
     {
 
         imgMouseEnter.gameObject.SetActive(isEnter);
-        if (Team == DEFINE.TEAM.MYTEAM)
+        if (Team == DEFINE.TEAM.RED)
         {
             imgMouseEnter.GetComponent<Image>().sprite = Resources.Load<Sprite>("selected/our_selector");
         }

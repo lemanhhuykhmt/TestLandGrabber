@@ -1,9 +1,265 @@
 fileFormatVersion: 2
 guid: 1e5b1b708eb06bf4f972a9d616cf4893
-timeCreated: 1540299303
+timeCreated: 1545404011
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: unit_anim3_0
+    21300002: unit_anim3_1
+    21300004: unit_anim3_2
+    21300006: unit_anim3_3
+    21300008: unit_anim3_4
+    21300010: unit_anim3_5
+    21300012: unit_anim3_6
+    21300014: unit_anim3_7
+    21300016: unit_anim3_8
+    21300018: unit_anim3_9
+    21300020: unit_anim3_10
+    21300022: unit_anim3_11
+    21300024: unit_anim3_12
+    21300026: unit_anim3_13
+    21300028: unit_anim3_14
+    21300030: unit_anim3_15
+    21300032: unit_anim3_16
+    21300034: unit_anim3_17
+    21300036: unit_anim3_18
+    21300038: unit_anim3_19
+    21300040: unit_anim3_20
+    21300042: unit_anim3_21
+    21300044: unit_anim3_22
+    21300046: unit_anim3_23
+    21300048: unit_anim3_24
+    21300050: unit_anim3_25
+    21300052: unit_anim3_26
+    21300054: unit_anim3_27
+    21300056: unit_anim3_28
+    21300058: unit_anim3_29
+    21300060: unit_anim3_30
+    21300062: unit_anim3_31
+    21300064: unit_anim3_32
+    21300066: unit_anim3_33
+    21300068: unit_anim3_34
+    21300070: unit_anim3_35
+    21300072: unit_anim3_36
+    21300074: unit_anim3_37
+    21300076: unit_anim3_38
+    21300078: unit_anim3_39
+    21300080: unit_anim3_40
+    21300082: unit_anim3_41
+    21300084: unit_anim3_42
+    21300086: unit_anim3_43
+    21300088: unit_anim3_44
+    21300090: unit_anim3_45
+    21300092: unit_anim3_46
+    21300094: unit_anim3_47
+    21300096: unit_anim3_48
+    21300098: unit_anim3_49
+    21300100: unit_anim3_50
+    21300102: unit_anim3_51
+    21300104: unit_anim3_52
+    21300106: unit_anim3_53
+    21300108: unit_anim3_54
+    21300110: unit_anim3_55
+    21300112: unit_anim3_56
+    21300114: unit_anim3_57
+    21300116: unit_anim3_58
+    21300118: unit_anim3_59
+    21300120: unit_anim3_60
+    21300122: unit_anim3_61
+    21300124: unit_anim3_62
+    21300126: unit_anim3_63
+    21300128: unit_anim3_64
+    21300130: unit_anim3_65
+    21300132: unit_anim3_66
+    21300134: unit_anim3_67
+    21300136: unit_anim3_68
+    21300138: unit_anim3_69
+    21300140: unit_anim3_70
+    21300142: unit_anim3_71
+    21300144: unit_anim3_72
+    21300146: unit_anim3_73
+    21300148: unit_anim3_74
+    21300150: unit_anim3_75
+    21300152: unit_anim3_76
+    21300154: unit_anim3_77
+    21300156: unit_anim3_78
+    21300158: unit_anim3_79
+    21300160: unit_anim3_80
+    21300162: unit_anim3_81
+    21300164: unit_anim3_82
+    21300166: unit_anim3_83
+    21300168: unit_anim3_84
+    21300170: unit_anim3_85
+    21300172: unit_anim3_86
+    21300174: unit_anim3_87
+    21300176: unit_anim3_88
+    21300178: unit_anim3_89
+    21300180: unit_anim3_90
+    21300182: unit_anim3_91
+    21300184: unit_anim3_92
+    21300186: unit_anim3_93
+    21300188: unit_anim3_94
+    21300190: unit_anim3_95
+    21300192: unit_anim3_96
+    21300194: unit_anim3_97
+    21300196: unit_anim3_98
+    21300198: unit_anim3_99
+    21300200: unit_anim3_100
+    21300202: unit_anim3_101
+    21300204: unit_anim3_102
+    21300206: unit_anim3_103
+    21300208: unit_anim3_104
+    21300210: unit_anim3_105
+    21300212: unit_anim3_106
+    21300214: unit_anim3_107
+    21300216: unit_anim3_108
+    21300218: unit_anim3_109
+    21300220: unit_anim3_110
+    21300222: unit_anim3_111
+    21300224: unit_anim3_112
+    21300226: unit_anim3_113
+    21300228: unit_anim3_114
+    21300230: unit_anim3_115
+    21300232: unit_anim3_116
+    21300234: unit_anim3_117
+    21300236: unit_anim3_118
+    21300238: unit_anim3_119
+    21300240: unit_anim3_120
+    21300242: unit_anim3_121
+    21300244: unit_anim3_122
+    21300246: unit_anim3_123
+    21300248: unit_anim3_124
+    21300250: unit_anim3_125
+    21300252: unit_anim3_126
+    21300254: unit_anim3_127
+    21300256: unit_anim3_128
+    21300258: unit_anim3_129
+    21300260: unit_anim3_130
+    21300262: unit_anim3_131
+    21300264: unit_anim3_132
+    21300266: unit_anim3_133
+    21300268: unit_anim3_134
+    21300270: unit_anim3_135
+    21300272: unit_anim3_136
+    21300274: unit_anim3_137
+    21300276: unit_anim3_138
+    21300278: unit_anim3_139
+    21300280: unit_anim3_140
+    21300282: unit_anim3_141
+    21300284: unit_anim3_142
+    21300286: unit_anim3_143
+    21300288: unit_anim3_144
+    21300290: unit_anim3_145
+    21300292: unit_anim3_146
+    21300294: unit_anim3_147
+    21300296: unit_anim3_148
+    21300298: unit_anim3_149
+    21300300: unit_anim3_150
+    21300302: unit_anim3_151
+    21300304: unit_anim3_152
+    21300306: unit_anim3_153
+    21300308: unit_anim3_154
+    21300310: unit_anim3_155
+    21300312: unit_anim3_156
+    21300314: unit_anim3_157
+    21300316: unit_anim3_158
+    21300318: unit_anim3_159
+    21300320: unit_anim3_160
+    21300322: unit_anim3_161
+    21300324: unit_anim3_162
+    21300326: unit_anim3_163
+    21300328: unit_anim3_164
+    21300330: unit_anim3_165
+    21300332: unit_anim3_166
+    21300334: unit_anim3_167
+    21300336: unit_anim3_168
+    21300338: unit_anim3_169
+    21300340: unit_anim3_170
+    21300342: unit_anim3_171
+    21300344: unit_anim3_172
+    21300346: unit_anim3_173
+    21300348: unit_anim3_174
+    21300350: unit_anim3_175
+    21300352: unit_anim3_176
+    21300354: unit_anim3_177
+    21300356: unit_anim3_178
+    21300358: unit_anim3_179
+    21300360: unit_anim3_180
+    21300362: unit_anim3_181
+    21300364: unit_anim3_182
+    21300366: unit_anim3_183
+    21300368: unit_anim3_184
+    21300370: unit_anim3_185
+    21300372: unit_anim3_186
+    21300374: unit_anim3_187
+    21300376: unit_anim3_188
+    21300378: unit_anim3_189
+    21300380: unit_anim3_190
+    21300382: unit_anim3_191
+    21300384: unit_anim3_192
+    21300386: unit_anim3_193
+    21300388: unit_anim3_194
+    21300390: unit_anim3_195
+    21300392: unit_anim3_196
+    21300394: unit_anim3_197
+    21300396: unit_anim3_198
+    21300398: unit_anim3_199
+    21300400: unit_anim3_200
+    21300402: unit_anim3_201
+    21300404: unit_anim3_202
+    21300406: unit_anim3_203
+    21300408: unit_anim3_204
+    21300410: unit_anim3_205
+    21300412: unit_anim3_206
+    21300414: unit_anim3_207
+    21300416: unit_anim3_208
+    21300418: unit_anim3_209
+    21300420: unit_anim3_210
+    21300422: unit_anim3_211
+    21300424: unit_anim3_212
+    21300426: unit_anim3_213
+    21300428: unit_anim3_214
+    21300430: unit_anim3_215
+    21300432: unit_anim3_216
+    21300434: unit_anim3_217
+    21300436: unit_anim3_218
+    21300438: unit_anim3_219
+    21300440: unit_anim3_220
+    21300442: unit_anim3_221
+    21300444: unit_anim3_222
+    21300446: unit_anim3_223
+    21300448: unit_anim3_224
+    21300450: unit_anim3_225
+    21300452: unit_anim3_226
+    21300454: unit_anim3_227
+    21300456: unit_anim3_228
+    21300458: unit_anim3_229
+    21300460: unit_anim3_230
+    21300462: unit_anim3_231
+    21300464: unit_anim3_232
+    21300466: unit_anim3_233
+    21300468: unit_anim3_234
+    21300470: unit_anim3_235
+    21300472: unit_anim3_236
+    21300474: unit_anim3_237
+    21300476: unit_anim3_238
+    21300478: unit_anim3_239
+    21300480: unit_anim3_240
+    21300482: unit_anim3_241
+    21300484: unit_anim3_242
+    21300486: unit_anim3_243
+    21300488: unit_anim3_244
+    21300490: unit_anim3_245
+    21300492: unit_anim3_246
+    21300494: unit_anim3_247
+    21300496: unit_anim3_248
+    21300498: unit_anim3_249
+    21300500: unit_anim3_250
+    21300502: unit_anim3_251
+    21300504: unit_anim3_252
+    21300506: unit_anim3_253
+    21300508: unit_anim3_254
+    21300510: unit_anim3_255
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +296,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -76,7 +332,3591 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: unit_anim3_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 972
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 974
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 972
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 974
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 972
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 974
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 972
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 974
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 972
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 972
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 974
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 972
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 974
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 974
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 972
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_15
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 972
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 910
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 908
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 910
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 910
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 911
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 910
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 910
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 910
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 908
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 910
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 910
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 911
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_28
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 910
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 910
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 910
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_31
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 910
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 845
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 844
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 845
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 846
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 846
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 846
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 846
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 844
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 845
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_41
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 844
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_42
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 845
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 846
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_44
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 846
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 844
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_46
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 844
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 844
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 781
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 782
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 780
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 782
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 782
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 780
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 781
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 780
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 780
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 780
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_59
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 782
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_60
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 782
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_61
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 780
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_62
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 780
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_63
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 780
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 716
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 716
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 716
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 716
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 716
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 716
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_70
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 716
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 716
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_72
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 715
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_73
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 715
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_74
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 715
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_75
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 715
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_76
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 715
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_77
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 715
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_78
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_79
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 715
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 648
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 648
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 648
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 648
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 649
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_85
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 648
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_86
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 648
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 648
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_88
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 647
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_89
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 647
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_90
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 647
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_91
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 647
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_92
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 647
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_93
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 647
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_94
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 647
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_95
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 647
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_96
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 582
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 582
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 583
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 583
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 582
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 580
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 580
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_103
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 582
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_104
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 583
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_105
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 583
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_106
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 584
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_107
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 583
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_108
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 583
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_109
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 583
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_110
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 583
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_111
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 583
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_112
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 522
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 522
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 522
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_115
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 520
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 520
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_117
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 520
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 521
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_119
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 522
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_120
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 524
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_121
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 525
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_122
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 524
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_123
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 524
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_124
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 524
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_125
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 524
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_126
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 524
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_127
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 524
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_128
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 460
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_129
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 460
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 460
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 460
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_132
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 460
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 460
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_134
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 460
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_135
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 460
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_136
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 460
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_137
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 460
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_138
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 460
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_139
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 461
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_140
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 460
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_141
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 460
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_142
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 460
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_143
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 461
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_144
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 396
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_145
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 396
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_146
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 396
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 396
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_148
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 397
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 396
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_150
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 396
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_151
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 396
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_152
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_153
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 396
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_154
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 396
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_155
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 396
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_156
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 397
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_157
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 396
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_158
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 396
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_159
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 397
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 332
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_161
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 332
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_162
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 332
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_163
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 332
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_164
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 332
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_165
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 332
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_166
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 332
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_167
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 332
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_168
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 331
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_169
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 332
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_170
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 332
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_171
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 332
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_172
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 332
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_173
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 333
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_174
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 332
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_175
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 332
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 267
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_178
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 268
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_179
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_180
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 268
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_182
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 267
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_183
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 267
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_184
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 267
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_185
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 267
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_186
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 268
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_187
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 268
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_188
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 268
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_189
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 268
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_190
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 267
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_191
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 267
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_193
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 203
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_194
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_195
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 203
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_196
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_197
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 203
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_198
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 203
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_199
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 203
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_200
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 202
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_201
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 203
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_202
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 203
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_203
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 203
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_204
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 202
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_205
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 202
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_206
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 202
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_207
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 200
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_208
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_209
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 136
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_210
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 136
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_211
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 136
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_212
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 136
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_213
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 136
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_214
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 136
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_215
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 136
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_216
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 132
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_217
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 134
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_218
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 134
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_219
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 134
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_220
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 134
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_221
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 134
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_222
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 134
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_223
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 132
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_224
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_225
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_226
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 69
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_227
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 69
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_228
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_229
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 69
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_230
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 68
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_231
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 69
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_232
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 70
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_233
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 70
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_234
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 70
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_235
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 70
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_236
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 68
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_237
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 68
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_238
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 70
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_239
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 70
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_240
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_241
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_242
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_243
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_244
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 8
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_245
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_246
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 7
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_247
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 8
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_248
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 11
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_249
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_250
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 11
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_251
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 10
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_252
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_253
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 10
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_254
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 8
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_anim3_255
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 11
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
