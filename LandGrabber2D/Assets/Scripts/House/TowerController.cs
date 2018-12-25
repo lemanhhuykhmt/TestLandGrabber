@@ -29,6 +29,7 @@ public class TowerController : HouseController
     {
         base.Start();
         InvokeRepeating("UpdateTarget", 0.0f, 0.5f);
+        imgTowerZone.rectTransform.sizeDelta = new Vector2(range * 2, range * 2);
     }
     protected override void UpdateHealth()
     {
@@ -45,6 +46,13 @@ public class TowerController : HouseController
         maxSoldier = level * 10;
         fireRate += 1;
         Range += 0.25f;
+        firePoint.position = new Vector3(firePoint.position.x, firePoint.position.y + 0.2f, firePoint.position.z);
+        if(level == 1)
+        {
+            fireRate = 1.0f;
+            Range = 2f;
+            firePoint.position = new Vector3(this.transform.position.x - 0.05f, this.transform.position.y + 0.8f, firePoint.position.z);
+        }
     }
     protected override void UpdatePopulation()
     {

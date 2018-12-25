@@ -215,7 +215,7 @@ public abstract class HouseController : MonoBehaviour {
         }
 
     }
-        private void OnMouseEnter()
+    private void OnMouseEnter()
         {
             setMouseEnter(true);
         }
@@ -270,13 +270,12 @@ public abstract class HouseController : MonoBehaviour {
         {
             return;
         }
-
-        CurSoldier = CurSoldier - maxSoldier / 2;
+        
+        int del = maxSoldier / 2;
         //updateHealth();
         Level++;
-
+        CurSoldier = curSoldier - del;
         changeSkin();
-
     }
     public void ChangeTeam(DEFINE.TEAM team)
     {
